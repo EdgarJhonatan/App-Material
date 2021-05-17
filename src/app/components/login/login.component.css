@@ -1,0 +1,42 @@
+.body {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    
+}
+
+.login {
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+}
+
+.ancho {
+    width: 80%;
+}
+
+.button {
+    height: 50px;
+}
+
+.spinner {
+    margin: 0 auto;
+}
+
+
+mat-card {
+    max-width: 330px;
+    margin: 2em auto;
+    text-align: center;
+    max-height: 600px;
+}
+
+.content-body{
+    min-height: 100%;
+    padding: 60px 1rem;
+    display: block;
+    background-image: url('../../../assets/img/B1.jpg');
+    opacity: 1;
+}
+
